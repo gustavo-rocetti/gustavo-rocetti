@@ -50,6 +50,7 @@
 |---|---|---|
 | 🤖 [**auditor-RDO**](https://github.com/Grn144/auditor-RDO) | Auditor de Relatórios — automatiza a auditoria de evidências fotográficas do Diário de Obra usando IA de visão; organiza as fotos por tarefa e gera relatórios em CSV e PDF | Python · Flask · IA de Visão |
 | 📊 [**aplicativo-orçamento**](https://github.com/Grn144/aplicativo-or-amento) | Orçamento de Obras — aplicação full stack para orçamento de projetos de engenharia, com autenticação e dados em tempo real | Next.js · TypeScript · Supabase |
+| 🎧 [**airpods**](https://github.com/Grn144/airpods) | Landing page premium dos AirPods Pro com animação de scroll em canvas (97 frames WebP) no estilo Apple, navbar da Apple e layout responsivo | Next.js · TypeScript · Tailwind · Canvas |
 | 🎴 [**panini-brasil**](https://github.com/Grn144/panini-brasil) | Álbum virtual de figurinhas da Copa do Mundo, com abertura de pacotinhos animada, persistência local e efeitos holográficos | React · Vite · Tailwind · Framer Motion |
 | 💼 [**portfolio**](https://github.com/Grn144/portfolio) | Site de portfólio pessoal, single-file e pronto para deploy direto no GitHub Pages | HTML5 · CSS3 · JS |
 
