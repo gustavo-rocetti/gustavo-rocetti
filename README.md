@@ -1,7 +1,8 @@
-<h1 align="center">Olá, eu sou o Gustavo 👋</h1>
+<h1 align="center">Gustavo Rocetti</h1>
 
 <p align="center">
-  Desenvolvedor de Software Jr. · Full Stack · Automação e IA aplicada · São Paulo, SP
+  <b>Analista de Processos que constrói a automação</b><br/>
+  Mapeio o gargalo em BPMN, meço e depois escrevo o código que tira o trabalho manual do caminho.
 </p>
 
 <p align="center">
@@ -11,55 +12,48 @@
   <a href="mailto:rocetti.solutions@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://grn144.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfólio-1e2327?style=flat&logo=googlechrome&logoColor=white" alt="Portfólio" />
-  </a>
 </p>
 
 ---
 
-### 🧭 Sobre mim
+### Sobre mim
 
-- 💻 Atuo como **Desenvolvedor de Software Full Stack** — do front-end responsivo ao back-end e à **automação de processos**.
-- 🤖 Aplico **IA a problemas reais**, como auditoria automatizada de relatórios de obra com visão computacional.
-- 🏢 Hoje na **Officez** (engenharia e construção B2B).
-- 🎓 Formação em **Análise e Desenvolvimento de Sistemas**.
-- 🌱 Foco atual: **React/Next.js, Node.js e Python**, com boas práticas de código, performance e escalabilidade.
-- 📍 São Paulo, SP — Brasil.
+- 4+ anos em processos (Stefanini, Ilha Service, Officez), em sistemas críticos do DETRAN-SP
+- Regras de negócio em BPMN (Bizagi e Visio), requisitos, auditoria de dados com SQL e homologação
+- Depois do mapeamento, construo a automação: Python, Node.js, TypeScript e IA
+- Análise e Desenvolvimento de Sistemas (Cruzeiro do Sul) · ITIL 4 · COBIT 5
+- São Paulo, SP
 
-### 🛠️ Stack
+### Resultados
+
+- **20 h → 2 h por semana (-90%)** na organização das fotos de obra, com uma automação que salva e renomeia tudo conforme o escopo (Officez)
+- **+10 clientes corporativos** (Magalu, UOL, Unilever) acompanhando obras por relatórios de progresso com indicadores (Officez)
+- **Sistema de orçamento de obras** que padronizou a orçamentação da empresa, com preço de venda calculado em tempo real (Officez)
+- **+10 melhorias** em sistemas do DETRAN-SP saídas da minha documentação de regras de negócio (Ilha Service)
+
+### Automações e projetos
+
+| Projeto | O que resolve | Stack |
+|---|---|---|
+| [**dashboard-kpis-processos**](https://github.com/Grn144/dashboard-kpis-processos) | Transforma o log de um processo (CSV/XLSX) em lead time, SLA, gargalo e retrabalho. [Demo](https://dashboard-kpis-processos.vercel.app) | React · TypeScript · Recharts |
+| [**auditor-RDO**](https://github.com/Grn144/auditor-RDO) | Audita com IA de visão as fotos dos relatórios diários de obra e gera o PDF e a planilha de medição | Python · Flask · IA de visão |
+| [**portfolio-bpmn**](https://github.com/Grn144/portfolio-bpmn) | 4 processos em BPMN 2.0 (e-commerce, clínica, contabilidade, atendimento com IA) mostrando onde automatizar | Bizagi · BPMN 2.0 |
+| [**clube-assinaturas**](https://github.com/Grn144/clube-assinaturas) | Cobrança recorrente automática: webhooks idempotentes, máquina de estados e e-mails automáticos | Python · FastAPI · Stripe |
+
+### Ferramentas
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat&logo=powerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/BPMN-Bizagi-E8590C?style=flat" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
-### 📌 Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| 🤖 [**auditor-RDO**](https://github.com/Grn144/auditor-RDO) | Auditor de Relatórios — automatiza a auditoria de evidências fotográficas do Diário de Obra usando IA de visão; organiza as fotos por tarefa e gera relatórios em CSV e PDF | Python · Flask · IA de Visão |
-| 📊 [**aplicativo-orçamento**](https://github.com/Grn144/aplicativo-or-amento) | Orçamento de Obras — aplicação full stack para orçamento de projetos de engenharia, com autenticação e dados em tempo real | Next.js · TypeScript · Supabase |
-| 🎧 [**airpods**](https://github.com/Grn144/airpods) | Landing page premium dos AirPods Pro com animação de scroll em canvas (97 frames WebP) no estilo Apple, navbar da Apple e layout responsivo | Next.js · TypeScript · Tailwind · Canvas |
-| 🎴 [**panini-brasil**](https://github.com/Grn144/panini-brasil) | Álbum virtual de figurinhas da Copa do Mundo, com abertura de pacotinhos animada, persistência local e efeitos holográficos | React · Vite · Tailwind · Framer Motion |
-| 💼 [**portfolio**](https://github.com/Grn144/portfolio) | Site de portfólio pessoal, single-file e pronto para deploy direto no GitHub Pages | HTML5 · CSS3 · JS |
-
-### 📊 Atividade
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Grn144&show_icons=true&theme=default&hide_title=false" alt="GitHub stats" />
-</p>
-
 ---
 
-<p align="center"><i>Aberto a oportunidades como Desenvolvedor de Software (Full Stack · Automação · IA). Vamos conversar!</i></p>
+<p align="center"><i>Aberto a vagas de Analista de Processos, Automação e TI em São Paulo. Tem um processo que precisa sair da planilha? Vamos conversar.</i></p>
