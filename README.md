@@ -35,12 +35,12 @@
 
 | Projeto | O que resolve | Stack |
 |---|---|---|
-| [**bot-triagem-whatsapp**](https://github.com/Grn144/bot-triagem-whatsapp) | Responde as perguntas frequentes no WhatsApp, salva o lead no CRM e chama um atendente quando o caso pede uma pessoa | Node.js · TypeScript · WhatsApp Cloud API · Claude |
-| [**renomeador-fotos-obra**](https://github.com/Grn144/renomeador-fotos-obra) | Organiza e renomeia fotos de obra pelas linhas do escopo. Versão genérica da automação dos 20 h → 2 h | Python · Pillow |
-| [**dashboard-kpis-processos**](https://github.com/Grn144/dashboard-kpis-processos) | Transforma o log de um processo (CSV/XLSX) em lead time, SLA, gargalo e retrabalho. [Demo](https://dashboard-kpis-processos.vercel.app) | React · TypeScript · Recharts |
-| [**auditor-RDO**](https://github.com/Grn144/auditor-RDO) | Audita com IA de visão as fotos dos relatórios diários de obra e gera o PDF e a planilha de medição | Python · Flask · IA de visão |
-| [**portfolio-bpmn**](https://github.com/Grn144/portfolio-bpmn) | 4 processos em BPMN 2.0 (e-commerce, clínica, contabilidade, atendimento com IA) mostrando onde automatizar | Bizagi · BPMN 2.0 |
-| [**clube-assinaturas**](https://github.com/Grn144/clube-assinaturas) | Cobrança recorrente automática: webhooks idempotentes, máquina de estados e e-mails automáticos | Python · FastAPI · Stripe |
+| [**bot-triagem-whatsapp**](https://github.com/gustavo-rocetti/bot-triagem-whatsapp) | Responde as perguntas frequentes no WhatsApp, salva o lead no CRM e chama um atendente quando o caso pede uma pessoa | Node.js · TypeScript · WhatsApp Cloud API · Claude |
+| [**renomeador-fotos-obra**](https://github.com/gustavo-rocetti/renomeador-fotos-obra) | Organiza e renomeia fotos de obra pelas linhas do escopo. Versão genérica da automação dos 20 h → 2 h | Python · Pillow |
+| [**dashboard-kpis-processos**](https://github.com/gustavo-rocetti/dashboard-kpis-processos) | Transforma o log de um processo (CSV/XLSX) em lead time, SLA, gargalo e retrabalho. [Demo](https://dashboard-kpis-processos.vercel.app) | React · TypeScript · Recharts |
+| [**auditor-RDO**](https://github.com/gustavo-rocetti/auditor-RDO) | Audita com IA de visão as fotos dos relatórios diários de obra e gera o PDF e a planilha de medição | Python · Flask · IA de visão |
+| [**portfolio-bpmn**](https://github.com/gustavo-rocetti/portfolio-bpmn) | 4 processos em BPMN 2.0 (e-commerce, clínica, contabilidade, atendimento com IA) mostrando onde automatizar | Bizagi · BPMN 2.0 |
+| [**clube-assinaturas**](https://github.com/gustavo-rocetti/clube-assinaturas) | Cobrança recorrente automática: webhooks idempotentes, máquina de estados e e-mails automáticos | Python · FastAPI · Stripe |
 
 ### Ferramentas
 
